@@ -175,7 +175,6 @@ The log location is set inside `handle_logsig()` in `command.cc`. Change that pa
 
 This is a teaching shell, so it leaves out many features of a full shell:
 
-- No wildcard expansion (`*`, `?`), the lab's bonus part
 - No quoting, escaping, or environment-variable expansion
 - No command history, line editing, or tab completion
 - No job control (`jobs`, `fg`, `bg`)
